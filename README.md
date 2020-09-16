@@ -16,3 +16,6 @@
 - React
 - JavaScript
 - Web3.js
+
+### Credits
+This app was completed by following the course tutorial developed by: dappuniversity.com.
